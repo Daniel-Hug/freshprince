@@ -1,0 +1,17 @@
+h1	{
+	text-align: center;
+	background-color: black;
+	color: red;
+	font-family: georgia, serif
+	center;
+}
+
+body {
+	background-color: black;
+	font-family: georgia, serif;
+	color: white;
+}
+
+p {
+	text-align: center;
+}
